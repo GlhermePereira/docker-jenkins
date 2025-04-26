@@ -20,5 +20,3 @@ cd jenkins-docker
 # Suba o ambiente
 docker-compose up -d
 
-# Verifique se está rodando
-docker ps
